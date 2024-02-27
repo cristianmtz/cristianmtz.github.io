@@ -1,4 +1,4 @@
-#Encriptor de Texto usando HTML, Tailwind y JavaScript
+# Encriptor de Texto usando HTML, Tailwind y JavaScript
 
 Este es un proyecto simple que implementa un encriptor de texto básico utilizando 
 HTML para la estructura, Tailwind CSS para el diseño y JavaScript para la lógica de encriptación.
