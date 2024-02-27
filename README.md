@@ -15,7 +15,7 @@ HTML para la estructura, Tailwind CSS para el diseño y JavaScript para la lógi
 - Tailwind CSS: Para el diseño y estilizado del contenido.
 - JavaScript: Para la lógica de encriptación del texto.
 
-#Vizualizacion
+### Vizualizacion
 [link](https://cristianmtz.github.io/)
 
 ## Author
